@@ -1,0 +1,1594 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../查询结果_1_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:790px;
+    height:50px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:796px;
+    height:56px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:786px;
+    height:46px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:790px;
+    height:50px
+}
+
+.u2_original {
+    background-image: url('../查询结果_1_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:10px;
+    top:70px;
+    width:150px;
+    height:450px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:456px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:217px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:10px;
+    top:70px;
+    width:150px;
+    height:450px
+}
+
+.u4_original {
+    background-image: url('../查询结果_1_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:11px;
+    top:80px;
+    width:120px;
+    height:30px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:36px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:116px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:11px;
+    top:80px;
+    width:120px;
+    height:30px
+}
+
+.u6_original {
+    background-image: url('../查询结果_1_files/u6_original.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:170px;
+    top:70px;
+    width:630px;
+    height:450px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:636px;
+    height:456px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:217px;
+    width:626px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:170px;
+    top:70px;
+    width:630px;
+    height:450px
+}
+
+.u8_original {
+    background-image: url('../查询结果_1_files/u8_original.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:395px;
+    top:80px;
+    width:180px;
+    height:40px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:176px;
+    height:27px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:395px;
+    top:80px;
+    width:180px;
+    height:40px
+}
+
+.u10 {
+    position:absolute;
+    left:435px;
+    top:350px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+#u11 {
+    position:absolute;
+    left:235px;
+    top:140px;
+    width:505px;
+    height:88px
+}
+
+.u11_table {
+    background-image: url('../查询结果_1_files/u11_table.png');
+}
+
+.u11_table {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:509px;
+    height:92px;
+}
+
+.u12_original {
+    background-image: url('../查询结果_1_files/u12_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100px;
+    height:23px
+}
+
+.u14_original {
+    background-image: url('../查询结果_1_files/u12_original.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:100px;
+    top:0px;
+    width:100px;
+    height:23px
+}
+
+.u16_original {
+    background-image: url('../查询结果_1_files/u12_original.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:100px;
+    height:23px
+}
+
+.u18_original {
+    background-image: url('../查询结果_1_files/u12_original.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:300px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:300px;
+    top:0px;
+    width:100px;
+    height:23px
+}
+
+.u20_original {
+    background-image: url('../查询结果_1_files/u12_original.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:400px;
+    top:0px;
+    width:100px;
+    height:23px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:400px;
+    top:0px;
+    width:100px;
+    height:23px
+}
+
+.u22_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:0px;
+    top:23px;
+    width:100px;
+    height:20px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:0px;
+    top:23px;
+    width:100px;
+    height:20px
+}
+
+.u24_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:100px;
+    top:23px;
+    width:100px;
+    height:20px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:100px;
+    top:23px;
+    width:100px;
+    height:20px
+}
+
+.u26_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:200px;
+    top:23px;
+    width:100px;
+    height:20px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:200px;
+    top:23px;
+    width:100px;
+    height:20px
+}
+
+.u28_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:300px;
+    top:23px;
+    width:100px;
+    height:20px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:300px;
+    top:23px;
+    width:100px;
+    height:20px
+}
+
+.u30_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:400px;
+    top:23px;
+    width:100px;
+    height:20px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:400px;
+    top:23px;
+    width:100px;
+    height:20px
+}
+
+.u32_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:0px;
+    top:43px;
+    width:100px;
+    height:20px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:0px;
+    top:43px;
+    width:100px;
+    height:20px
+}
+
+.u34_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:100px;
+    top:43px;
+    width:100px;
+    height:20px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:100px;
+    top:43px;
+    width:100px;
+    height:20px
+}
+
+.u36_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:200px;
+    top:43px;
+    width:100px;
+    height:20px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:200px;
+    top:43px;
+    width:100px;
+    height:20px
+}
+
+.u38_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:300px;
+    top:43px;
+    width:100px;
+    height:20px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:300px;
+    top:43px;
+    width:100px;
+    height:20px
+}
+
+.u40_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:400px;
+    top:43px;
+    width:100px;
+    height:20px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:400px;
+    top:43px;
+    width:100px;
+    height:20px
+}
+
+.u42_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:0px;
+    top:63px;
+    width:100px;
+    height:20px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:0px;
+    top:63px;
+    width:100px;
+    height:20px
+}
+
+.u44_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:100px;
+    top:63px;
+    width:100px;
+    height:20px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:100px;
+    top:63px;
+    width:100px;
+    height:20px
+}
+
+.u46_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:200px;
+    top:63px;
+    width:100px;
+    height:20px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:200px;
+    top:63px;
+    width:100px;
+    height:20px
+}
+
+.u48_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:300px;
+    top:63px;
+    width:100px;
+    height:20px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48 {
+    position:absolute;
+    left:300px;
+    top:63px;
+    width:100px;
+    height:20px
+}
+
+.u50_original {
+    background-image: url('../查询结果_1_files/u22_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:400px;
+    top:63px;
+    width:100px;
+    height:20px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:400px;
+    top:63px;
+    width:100px;
+    height:20px
+}
+
+.u54_selected {
+    background-image: url('../查询结果_1_files/u54_selected.png');
+}
+
+.u54_original {
+    background-image: url('../查询结果_1_files/u54_original.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px;
+}
+
+#u54_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:9px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54 {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px
+}
+
+.u56_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u56_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u57 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:79px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u56 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u59_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u59_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u60 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:53px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u59 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px
+}
+
+.u62_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u62_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u62_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u63 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:79px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u62 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u65_selected {
+    background-image: url('../查询结果_1_files/u54_selected.png');
+}
+
+.u65_original {
+    background-image: url('../查询结果_1_files/u54_original.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px;
+}
+
+#u65_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:9px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px
+}
+
+.u67_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u67_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u68 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:79px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u67 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u70_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u70_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u71 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:73px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u70 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px
+}
+
+.u73_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u73_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u74 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:219px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u73 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u76_selected {
+    background-image: url('../查询结果_1_files/u54_selected.png');
+}
+
+.u76_original {
+    background-image: url('../查询结果_1_files/u54_original.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px;
+}
+
+#u76_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:9px;
+    height:9px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:5px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:6px;
+    top:6px;
+    width:9px;
+    height:9px
+}
+
+.u78_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u78_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u78_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u79 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:79px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u78 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u81_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u81_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u82 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:53px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u81 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px
+}
+
+.u84_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u84_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u85 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:99px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u84 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u87_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u87_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:26px;
+}
+
+.u88 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:79px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u87 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:84px;
+    height:20px
+}
+
+.u90_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u90_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px;
+}
+
+#u90_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:64px;
+    height:26px;
+}
+
+.u91 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:53px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u90 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:58px;
+    height:20px
+}
+
+.u93_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u93_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:32px;
+    height:20px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:38px;
+    height:26px;
+}
+
+.u94 {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:27px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u93 {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:32px;
+    height:20px
+}
+
